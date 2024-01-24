@@ -16,8 +16,7 @@ Welcome to my portfolio repository! This project contains the HTML and basic CSS
 
 Feel free to clone or fork this repository to create your own two-page portfolio. Customize the content, add your personal touch, and make it uniquely yours!
 
-```bash
-git clone https://github.com/Vidhyashree4112001/portfolio.git
+
 
 
 Thankyou for visiting my Portfolio Website!
