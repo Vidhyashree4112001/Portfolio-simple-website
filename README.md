@@ -1,2 +1,23 @@
 # Portfolio-simple-website
-Explore my world of creativity and skills through this simple yet impactful portfolio website. Designed using HTML and CSS, this space is a reflection of who I am and what I bring to the table. Navigate through the sections to discover my background, explore showcased projects, and get in touch effortlessly.
+
+Welcome to my portfolio repository! This project contains the HTML and basic CSS code for my personal portfolio website. It features a simple home page introducing visitors to my skills and a contact page for easy communication.
+
+## Pages
+
+- **Home Page:** An introduction to the website, providing visitors with an overview of my skills and expertise.
+- **Contact Page:** Easily accessible contact information, allowing potential employers or collaborators to reach out.
+
+## Technologies Used
+
+- HTML
+- CSS
+
+## Getting Started
+
+Feel free to clone or fork this repository to create your own two-page portfolio. Customize the content, add your personal touch, and make it uniquely yours!
+
+```bash
+git clone https://github.com/Vidhyashree4112001/portfolio.git
+
+
+Thankyou for visiting my Portfolio Website!
